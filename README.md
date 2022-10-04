@@ -7,4 +7,4 @@ This is a modified version of the previous Assignment1 template.
 
 ## Activity 2
 
-![Activity2.png]
+![images/Activity2.png]
