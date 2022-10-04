@@ -13,7 +13,7 @@ This is a modified version of the previous Assignment1 template.
 
 ![](images/Activity3.png)
 
-## Activity 2
+## Activity 4
 
 ![](images/Activity4_1.png)
 
